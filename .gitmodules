@@ -1,0 +1,3 @@
+[submodule "vendor/UberGallery"]
+	path = vendor/UberGallery
+	url = git://github.com/UberGallery/UberGallery.git
